@@ -50,6 +50,10 @@ I bring a decade of battle-tested soft skills to the tech industry: thriving und
 
 ### 🛠️ Featured Engineering Projects
 
+🧲 **Leads Tracker (Chrome Extension)**
+A lightweight and efficient Chrome extension designed to quickly save and manage browser URLs, featuring active tab capture and local storage persistence.
+* GitHub Repository: https://github.com/laualways/google_extension_app.git
+
 🏀 **Basketball Scoreboard**
 A dynamic and fully responsive basketball scoreboard built with vanilla JavaScript, HTML, and CSS.
 * Live Demo: https://b-ball-scoreboard-june-2026.netlify.app/
